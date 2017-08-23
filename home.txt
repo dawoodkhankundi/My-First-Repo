@@ -1,1 +1,3 @@
-new line is added to file 1
+new line is added to file 1.
+this file named as home file.
+i am the author of this file.
